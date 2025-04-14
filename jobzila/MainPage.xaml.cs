@@ -34,7 +34,7 @@ namespace jobzila
                 Location = "San Francisco, CA",
                 Description = "We are seeking a talented Data-Scientist to analyze and interpret complex data sets. The successful candidate should have a strong background in statistical analysis, machine learning, and data visualization. Proficiency in programming languages such as Python and R is required."
             },
-            // Add other job listings here
+            // Add other job listings here, YES PLEASE
         };
 
             JobListings.ItemsSource = Jobs;
